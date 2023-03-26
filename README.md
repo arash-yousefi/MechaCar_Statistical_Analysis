@@ -15,8 +15,7 @@ Statistics and R
 
 ## Linear Regression to Predict MPG
 The MechaCar dataset contains a sample size of 50 prototypes measuring the miles per gallon across multiple variables.  The linear regression was calculated using R in RStudio. 
-1. RStudio v.1.4.1103 
-2. dplyr library v.1.0.3
+
 
 ### Linear Regression
 R script was applied to the dataset on several variables to get the following coefficients.  
